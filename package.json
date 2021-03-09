@@ -1,0 +1,15 @@
+{
+  "name": "trello-scrum-power-up",
+  "version": "1.0.0",
+  "description": "Agile SCRUM Power Up for Trello",
+  "main": "index.js",
+  "repository": "https://github.com/QueenCityCodeFactory/trello-scrum-power-up.git",
+  "author": "Daren Sipes <daren@teamwilletts.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "parcel build src/html/*.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
